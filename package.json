@@ -16,5 +16,9 @@
   "scripts": {
     "build": "babel src --out-dir .",
     "watch": "babel -w src --out-dir ."
-  }
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ]
 }
